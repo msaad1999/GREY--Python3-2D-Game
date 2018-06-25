@@ -1,9 +1,13 @@
-# Project---GREY
+<p align="center">
+  <img src="https://github.com/msaad1999/GREY/blob/master/assets/grey%20logo.png" width="300" aligh="center"/>
+</p>
 
-## A Python based 2D Game
+# A Python based 2D Game
+#### msaad1999
 
-### Introduction 
-![corrupt image](https://github.com/msaad1999/GREY/blob/master/assets/menu.gif)
+<img src="https://github.com/msaad1999/GREY/blob/master/assets/menu.gif" aligh="center"/>
+
+## INTRODUCTION 
 
 I created this game in Python 3, using Python's pygame library. This was a semester project, so i had to create the whole game without any aid of a game making software. and in itself, the pygame library is not very good for creating games so a lot had to be manually created from scratch.
 
