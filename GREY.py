@@ -212,11 +212,10 @@ class Player(pygame.sprite.Sprite):
         
     def update(self):
         key = pygame.mouse.get_pressed()
-        pos=pygame.mouse.get_pos()
-
+        mouse_pos=pygame.mouse.get_pos()
         
-        self.rect.centerx=pos[0]
-        self.rect.centery=pos[1]
+        self.rect.centerx=mouse_pos[0]
+        self.rect.centery=mouse_pos[1]
 
         if self.machinegun:
             if key[0] == 1:
